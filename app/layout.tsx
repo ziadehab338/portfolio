@@ -1,7 +1,8 @@
+import "./globals.css";
 export const metadata = {
   title: "Ziad Ehab | Software Engineer",
   description: "AI, Full Stack, Explainable AI projects"
-}
+};
 
 export default function RootLayout({
   children,
